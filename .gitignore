@@ -1,6 +1,5 @@
 ﻿################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
+/.vs/
 
-/.vs/FirstGithubApp/FileContentIndex/04dcba34-e4d6-4de9-8c7d-36e18bf30db9.vsidx
-/.vs/FirstGithubApp/FileContentIndex/2b311c94-a170-44be-9cf0-7588074937b0.vsidx
